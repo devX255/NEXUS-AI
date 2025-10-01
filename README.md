@@ -21,7 +21,7 @@ Nexus AI aims to provide a user-friendly interface for IT administrators and sec
 
 ### Installation
 
-To install EasyAudit, follow these steps:
+To install Nexus-AI, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-repo/easy-audit.git`
 2. Create a virtual environment: `python -m venv`
@@ -36,5 +36,6 @@ To install EasyAudit, follow these steps:
 1. Launch Nexus-AI and select the operating system you want to audit
 2. Choose the CIS Benchmark standard you want to comply with
 3. Click "Run Audit" to start the automated audit process
+
 
 
